@@ -1,0 +1,11 @@
+streamlit~=1.38.0
+elasticsearch~=8.15.0
+google-generativeai
+langchain~=0.2.16
+langchain_community
+langchain_google_genai
+python-dotenv~=1.0.1
+langchain-elasticsearch
+langchain-google-genai~=1.0.10
+langchain-community~=0.2.16
+langchain-core~=0.2.38
